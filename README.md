@@ -13,9 +13,9 @@ Have you ever experienced choppy / skippy audio when using bluetooth headphones 
 ### Install
 You will need to install the following brew applications:
 
-    brew install BluetoothConnector
-    brew install SwitchAudioSource
-    brew install Blueutil
+    brew install bluetoothConnector
+    brew install switchaudio-osx
+    brew install blueutil
 
 Then copy the fixblue() function in Script.sh into your ~/.bash_profile file.
 
