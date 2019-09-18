@@ -2,7 +2,7 @@
 Fix bluetooth audio or other bluetooth devices connected to Mac
 
 ### Issue
-Have you ever experienced choppy / skippy audio when using bluetooth headphones with you Mac? Then this is the script for you. It is not a permanent fix but it should have you back up and running in a few seconds. 
+Have you ever experienced choppy / skippy audio when using bluetooth headphones with your Mac? Then this is the script for you. It is not a permanent fix but it should have you back up and running in a few seconds. 
 
 ### What It Does
 - Disconnects your device
